@@ -1,4 +1,6 @@
-*** Instructions (for Linux)
+### Requirements:
+- Python3
+### Instructions (for Linux)
 ```sh
 $ virtualenv venv
 $ source ./venv/bin/activate
